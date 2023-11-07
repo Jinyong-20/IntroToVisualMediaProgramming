@@ -5,3 +5,6 @@ The given porblem was like :
   1. It must have at least three arms.
   2. The joint angle must be controled by keyboard inputs.
   3. The gripper's action is controlled in ON/OFF way. In other words, if you press SPACE key, the gripper does the action of gripping, and this state is kept unchanged until you press SPACE key again, at which point the gripper does the action of releasing.
+
+Video Link :
+https://youtu.be/nKyCsS6rfXI
